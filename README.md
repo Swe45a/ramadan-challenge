@@ -17,7 +17,7 @@ The platform encourages consistency, motivation, and community engagement throug
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - React + TypeScript  
